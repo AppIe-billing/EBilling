@@ -3,6 +3,6 @@ s
 s
 k
 s
-g
+gd
 a
 s
